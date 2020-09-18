@@ -6,7 +6,3 @@ def my_all?(collection)
   end
   all_odd
 end
-
-[4, 8, 9, 984].any?{|i| i < 9842}
-
-[1,2,3].detect{|i| i.odd?} #=> 1
